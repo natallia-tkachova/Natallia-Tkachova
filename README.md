@@ -20,7 +20,10 @@ My goal is to become a top-notch full stack developer, and I’m going through i
 * CSS
 * JavaScript
 * Git
+* BEM
 * Sass
+* TypeScript
+* Webpack
 
 ## Code Example
 ```
